@@ -1,2 +1,2 @@
-# C005---Linguagens-de-Programa-o-e-Compiladores
+# C005---Linguagens-de-Programacao-e-Compiladores
 Python Basico
